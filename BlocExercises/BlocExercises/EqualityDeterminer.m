@@ -12,6 +12,8 @@
 
 - (BOOL) string:(NSString *)string1 isTheSameAsString:(NSString *)string2 {
     /* WORK HERE */
+    //adding new comments to try and create change in xcode
+    
     return [string1 isEqualToString:string2];
 }
 
@@ -22,6 +24,8 @@
 
 - (BOOL) integer:(NSInteger)integer1 isGreaterThan:(NSInteger)integer2 {
     /* WORK HERE */
+    //random comment to push a change to xcode
+    
     return integer1 > integer2;
     
 }
