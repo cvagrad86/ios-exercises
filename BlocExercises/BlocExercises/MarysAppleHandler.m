@@ -35,16 +35,14 @@
     
     
    //my first attempts
-    //NSUInteger cost = 24;
+    NSUInteger cost = 24;
     //NSUInteger getsDiscount = (cost > 17) ? cost *= .75: cost;
     
     /*if (self.getsDiscount) {
         cost *= .75;
     }
     */
-    NSUInteger cost = 24;
-   
-    return cost * (self.getsDiscount ? .75 : 1);
+    return self.getsDiscount ? 18 : 24;
 }
 
 @end

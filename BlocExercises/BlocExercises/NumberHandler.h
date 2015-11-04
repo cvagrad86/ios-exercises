@@ -28,6 +28,8 @@
  @note Either @c number or @c otherNumber may be the lower number, but the string always includes numbers from lowest to highest.
 
  @return An array of NSNumbers between two integers, inclusively.
+ 
+ 
  */
 - (NSArray *) arrayOfNumbersBetweenNumber:(NSInteger)number andOtherNumber: (NSInteger)otherNumber;
 

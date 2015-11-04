@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5450119CCA2DD394E9078F73A3071326A1F877FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5450119CCA2DD394E9078F73A3071326A1F877FC" : 0,
+    "C064169C410BE48B67D16BC9B281A40533A7773A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "24C08283-9FB8-4FAE-B598-1A1C30481C20",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5450119CCA2DD394E9078F73A3071326A1F877FC" : "ios-exercises\/",
+    "C064169C410BE48B67D16BC9B281A40533A7773A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftExercises",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftExercises.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:cvagrad86\/ios-exercises.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5450119CCA2DD394E9078F73A3071326A1F877FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:cvagrad86\/github_checkpoint.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C064169C410BE48B67D16BC9B281A40533A7773A"
+    }
+  ]
+}
