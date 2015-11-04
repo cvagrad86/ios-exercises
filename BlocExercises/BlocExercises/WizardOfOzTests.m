@@ -20,8 +20,7 @@
 - (void)setUp
 {
     [super setUp];
-    // Put setup code here. This method is called before the invocation of each test method in the class.
-    
+  
     self.wonderfulWizard = [[WizardOfOz alloc] init];
 }
 
@@ -42,5 +41,7 @@
     NSString *mainCharacter = [self.wonderfulWizard mainCharacter];
    XCTAssertEqualObjects(mainCharacter, @"Dorothy", @"Incorrect main character string returned.");
 }
+
+//something added to make a change in git
 
 @end
